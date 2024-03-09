@@ -1,1 +1,3 @@
 print('js')
+
+print('kjs')
